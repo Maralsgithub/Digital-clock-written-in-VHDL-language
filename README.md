@@ -8,6 +8,6 @@
 - **Description :  VHDL code for digital clock on FPGA**
 This project is the **Digital clock with hour, minutes and seconds.** Built **on FPGA platform with VHDL** hardware description language**
 
-This digital clock is a reconfigurable 24-hour clock displaying hours, minutes, and seconds on seven-segment LEDs . Besides, users can manually set the time of the digital clock including hours and minutes through switches. 
+- This digital clock is a reconfigurable **24-hour clock displaying hours, minutes, and seconds on seven-segment LEDs** . Besides, users can manually set the time of the digital clock including hours and minutes through switches. 
 
 ![](https://imgur.com/up7bVYu.jpg)
